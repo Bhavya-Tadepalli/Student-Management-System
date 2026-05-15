@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:5050/api/Student";
+const apiUrl = "https://student-management-backend-alfd.onrender.com/api/Student";
 
 let studentsData = [];
 
